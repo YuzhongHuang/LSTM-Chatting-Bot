@@ -1,2 +1,2 @@
 # LSTM-Chatting-Bot
-by Yuzhong Huang
+by Yuzhong Huang and Sophie Li
